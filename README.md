@@ -1,3 +1,3 @@
 My CV link:
 
-monikaboczkowska.github.io/cv
+http://monikaboczkowska.github.io/cv
